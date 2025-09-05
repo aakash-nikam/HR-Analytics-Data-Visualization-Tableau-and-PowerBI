@@ -17,7 +17,7 @@ Power BI report: powerbi/DV power bi.pbix
 
 Data: data/HR.csv (sample HR attrition dataset)
 
-Documentation: reports/dv.pdf, reports/Data_Visualization_Presentation_Script.docx
+Documentation: reports/dv.pdf, reports
 The report outlines objectives, KPIs, and how each tool builds the visuals; the script provides a clean narration for presenting the dashboards.
 
 Dataset
